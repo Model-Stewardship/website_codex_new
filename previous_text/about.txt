@@ -1,0 +1,41 @@
+ABOUT STEWART CHANG
+Independent consultant in global health modeling with a passion for translating complex data into actionable insights for better health outcomes worldwide.
+
+MY JOURNEY TO CONSULTING
+My path to global health modeling began with dual interests in mathematics and biology, leading me from Rice University to the University of Michigan for doctoral studies in bioinformatics. Early career research at the University of British Columbia and University of Washington grounded me in computational biology and systems thinking.
+
+​
+
+The opportunity to join the Gates Foundation's Institute for Disease Modeling in 2012 was transformative – it allowed me to apply mathematical rigor to some of the world's most pressing health challenges. After 10+ years of increasingly senior roles, I recognized the need for independent modeling expertise that could serve the broader global health community without institutional constraints.
+
+​
+
+Model Stewardship represents my commitment to bringing the same analytical rigor and collaborative approach that served major foundation initiatives to organizations of all sizes seeking evidence-based solutions.
+
+Stewart in Nigeria - 2018
+WHAT I BRING TO YOUR ORGANIZATION
+TECHNICAL DEPTH
+Mathematical and statistical modeling expertise across infectious diseases, with particular strength in TB, respiratory diseases, and pandemic preparedness. Proven ability to develop agent-based models, geospatial analytics, and evidence synthesis frameworks.
+
+STRATEGIC PERSPECTIVE
+15 years working at the intersection of science, policy, and program implementation. I understand how to translate complex technical work into actionable insights for decision-makers.
+
+CROSS-SECTOR COLLABORATION
+Extensive experience coordinating multi-partner initiatives across foundations, research institutions, national health programs, and pharmaceutical partners. I build bridges between technical teams and leadership.
+
+PROVEN IMPACT
+Published in Lancet Global Health, BMC Medicine, PLOS Global Public Health, and other peer-reviewed journals. My modeling work has informed clinical trial designs, shaped national TB strategies, and supported vaccine rollout planning across multiple countries.
+
+Stewart in Nigeria - 2020
+EDUCATION & TECHNICAL BACKGROUND
+EDUCATION
+PhD in Bioinformatics – University of Michigan
+
+BA in Biochemistry – Rice University
+
+TECHNICAL SKILLS
+Programming: Python, R/Bioconductor, Perl
+
+Modeling: Agent-based modeling, geospatial/statistical modeling, AI/ML
+
+Domains: Infectious disease epidemiology, immunology, clinical trial design, systems biology

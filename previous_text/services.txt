@@ -1,0 +1,92 @@
+
+SERVICES
+Model Stewardship provides independent technical consulting in mathematical modeling and evidence synthesis for global health organizations.
+
+WHY MODEL STEWARDSHIP
+After 10+ years embedded within the Gates Foundation ecosystem, I recognized the value of bringing independent, flexible modeling expertise to the broader global health community.
+
+ 
+
+Model Stewardship offers:
+
+Unbiased technical analysis without institutional constraints
+
+Rapid engagement without bureaucratic overhead
+
+Deep Gates Foundation ecosystem knowledge
+
+Proven track record on high-stakes, multi-million dollar decisions
+
+Collaborative approach bridging technical teams and leadership
+
+Working with Spreadsheets
+MEASURE
+Evidence Synthesis & Model Validation
+​​
+
+Comprehensive data integration and rigorous evaluation to ensure reliable evidence for high-stakes health decisions.
+
+​​
+
+Services include:
+
+Evidence synthesis and programmatic impact evaluation
+
+Meta-analysis across preclinical, genomic, and epidemiological sources
+
+Multi-model comparison and validation ensuring responsible model use
+
+ 
+
+Ideal for: Pharmaceutical companies, research institutes, regulatory agencies requiring rigorous evidence synthesis and model validation
+
+Trend Plot
+MODEL
+Infectious Disease Modeling
+​
+
+Mathematical and agent-based modeling to understand disease transmission, evaluate interventions, and forecast epidemic trajectories.
+
+​
+
+Services include:
+
+Agent-based transmission models for TB, COVID-19, and respiratory pathogens
+
+Epidemic forecasting and scenario impact projections
+
+Sample size estimation using epidemiological modeling for clinical trials​
+
+ 
+
+Ideal for: National programs, global health organizations, and pharmaceutical companies seeking evidence-based program design
+
+Reading Map on Mobile
+MAP
+Geospatial Analysis & Targeting
+​
+
+Spatial modeling and geographic optimization to strategically target interventions and maximize program impact.
+
+​
+
+Services include:
+
+Geospatial modeling to identify disease hotspots and prioritize interventions
+
+Spatial optimization of intervention coverage and resource allocation
+
+Trial site selection based on disease burden and geospatial analysis
+
+ 
+
+Ideal for: Implementation partners, national programs, and pharmaceutical companies planning geographic rollout strategies
+
+HOW WE WORK TOGETHER
+PROJECT-BASED CONSULTING: Defined scope, deliverables, and timeline (3-12 months typical)
+
+RETAINER ADVISORY: Ongoing strategic modeling support with flexible scope
+
+TECHNICAL REVIEW: Peer review of modeling work conducted by others
+
+WORKSHOPS & TRAINING: Capacity building for organizational teams

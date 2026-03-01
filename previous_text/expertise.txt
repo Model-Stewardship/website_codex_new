@@ -1,0 +1,46 @@
+
+DISEASE EXPERTISE
+Model Stewardship brings deep technical knowledge across infectious disease modeling, clinical research design, and evidence synthesis for global health impact.
+
+PAST PROJECTS
+My work has directly supported:
+
+M72 TB vaccine phase 3 trial design (with Gates Medical Research Institute)
+
+Nutrition-TB intervention clinical trial (with Wellcome Trust, Novo Nordisk Foundation)
+
+COVID-19 vaccine prioritization strategies (with CEPI)
+
+TB program optimization with South African, Pakistani, and Nigerian ministries of health
+
+TB hotspot prediction (award-winning model in 2019 TB Hackathon sponsored by Stop TB Partnership)​
+
+TB Hackathon Ceremony - 2019
+TUBERCULOSIS
+Over a decade modeling TB transmission, intervention impact, and program optimization. Developed agent-based models for India, South Africa, Nigeria, and other high-burden settings.
+
+Nigeria TB hotspot map
+RESPIRATORY PATHOGENS
+Research background in H5N1, SARS-CoV, and other highly pathogenic respiratory viruses. Meta-analysis of immune responses to emerging infectious diseases, and translational research to new diagnostics.
+
+High-pathogenicity gene signature
+COVID-19 & PANDEMIC PREPAREDNESS
+Supported COVID-19 vaccine rollout strategies with CEPI. Experience in rapid epidemic modeling and pandemic preparedness planning.
+
+COVID modeling with CEPI
+SELECTED PUBLICATIONS
+Selvaraj P, Wagner BG, Chao DL, Jackson ML, Breugelmans JG, Jackson N, Chang ST. Rural prioritization may increase the impact of COVID-19 vaccines in a representative COVAX AMC country. PLOS Glob Public Health. 2022;2(1):e0000053. [https://doi.org/10.1371/journal.pgph.0000053]
+
+Alba S, Rood E, Mecatti F, Ross JM, Dodd PJ, Chang ST, et al. TB Hackathon: Development and comparison of five models to predict subnational TB prevalence in Pakistan. Trop Med Infect Dis. 2022;7(1):13. [https://doi.org/10.1186/s12916-018-1037-3]
+
+Chang ST, Chihota VN, Fielding KL, Grant AD, Houben RM, White RG, Churchyard GJ, Eckhoff PA, Wagner BG. Small contribution of gold mines to the TB epidemic in South Africa: a modeling study. BMC Med. 2018;16(1):52. [Link]
+
+Menzies NA, Gomez GB, Bozzani F, Chatterjee S, Foster N, Baena IG, Chang ST, et al. Cost-effectiveness of aggressive TB action in China, India, and South Africa: combined analysis of nine models. Lancet Glob Health. 2016;4(11):e816–e826. [https://doi.org/10.1016/S2214-109X(16)30265-0]
+
+Houben RMGJ, Menzies NA, Sumner T, Huynh GH, Arinaminpathy N, Goldhaber-Fiebert JD, Chang ST, et al. Feasibility of achieving 2025 WHO TB targets in South Africa, China, and India: analysis of 11 models. Lancet Glob Health. 2016;4(11):e806–e815. [https://doi.org/10.1016/S2214-109X(16)30199-1]
+
+Chang ST, Thomas MJ, Sova P, Green RR, Palermo RE, Katze MG. Next-generation sequencing of small RNAs from HIV-infected cells reveals novel microRNAs. mBio. 2013;4(1):e00549-12. [https://doi.org/10.1128/mBio.00549-12]
+
+Chang ST, Tchitchek N, Ghosh D, Benecke A, Katze MG. A chemokine gene expression signature predicts pathogenicity of viral respiratory infections. BMC Syst Biol. 2011;5:202. [https://doi.org/10.1186/1752-0509-5-202]
+
+Chang ST, Linderman JJ, Kirschner DE. Multiple mechanisms allow M. tuberculosis to inhibit MHC class II antigen presentation by macrophages. Proc Natl Acad Sci USA. 2005;102(12):4530–4535. [https://doi.org/10.1073/pnas.0500362102]
