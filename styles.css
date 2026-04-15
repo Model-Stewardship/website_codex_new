@@ -455,6 +455,10 @@ ul {
   margin-bottom: 0.5rem;
 }
 
+.form-panel {
+  display: grid;
+}
+
 .intake-form {
   display: grid;
   gap: 0.6rem;
@@ -490,6 +494,29 @@ ul {
   min-height: 1.2em;
   color: var(--accent-strong);
   font-weight: 600;
+}
+
+.form-success {
+  display: grid;
+  align-content: start;
+  gap: 0.35rem;
+  min-height: 100%;
+}
+
+.form-success[hidden] {
+  display: none;
+}
+
+.form-success h3 {
+  margin-bottom: 0.2rem;
+}
+
+.form-success p {
+  margin-bottom: 0.35rem;
+}
+
+.form-success-note {
+  color: #b9c8d8;
 }
 
 .principal-panel {

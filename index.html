@@ -253,7 +253,8 @@
           </ul>
           <p id="form-status" class="form-status" role="status" aria-live="polite"></p>
         </div>
-        <form class="intake-form card reveal" name="intro-intake" method="POST" action="/?submitted=true#contact" data-netlify="true" netlify-honeypot="company_site" aria-label="Project intake form">
+        <div class="form-panel">
+        <form class="intake-form card reveal" id="intro-intake-form" name="intro-intake" method="POST" action="/" data-netlify="true" netlify-honeypot="company_site" aria-label="Project intake form">
           <input type="hidden" name="form-name" value="intro-intake">
           <input type="hidden" name="subject" value="Model Stewardship intake form submission">
           <p class="hidden">
@@ -291,6 +292,13 @@
 
           <button class="btn" type="submit">Send Intake</button>
         </form>
+        <div class="form-success card reveal" id="form-success" hidden>
+          <p class="eyebrow">Submission Received</p>
+          <h3>Thanks, your intake was submitted.</h3>
+          <p>I’ll be in touch shortly.</p>
+          <p class="form-success-note">If your matter is time-sensitive, you can also email <a href="mailto:stewart@modelstewardship.com">stewart@modelstewardship.com</a>.</p>
+        </div>
+        </div>
       </div>
     </section>
   </main>

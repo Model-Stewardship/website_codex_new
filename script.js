@@ -3,12 +3,29 @@ const siteNav = document.querySelector("#site-nav");
 const navLinks = siteNav ? siteNav.querySelectorAll("a") : [];
 const revealItems = document.querySelectorAll(".reveal");
 const formStatus = document.querySelector("#form-status");
+const intakeForm = document.querySelector("#intro-intake-form");
+const formSuccess = document.querySelector("#form-success");
 const imageZoomTriggers = document.querySelectorAll(".image-zoom-trigger");
 const lightbox = document.querySelector("#image-lightbox");
 const lightboxImage = document.querySelector("#lightbox-image");
 const lightboxCaption = document.querySelector("#lightbox-caption");
 const lightboxCloseButtons = lightbox ? lightbox.querySelectorAll("[data-lightbox-close]") : [];
 let lastZoomTrigger = null;
+
+const showFormSuccess = () => {
+  if (intakeForm) {
+    intakeForm.hidden = true;
+  }
+
+  if (formSuccess) {
+    formSuccess.hidden = false;
+    formSuccess.classList.add("visible");
+  }
+
+  if (formStatus) {
+    formStatus.textContent = "";
+  }
+};
 
 if (menuToggle && siteNav) {
   menuToggle.addEventListener("click", () => {
@@ -41,8 +58,56 @@ if (revealItems.length > 0) {
 }
 
 const params = new URLSearchParams(window.location.search);
-if (formStatus && params.get("submitted") === "true") {
-  formStatus.textContent = "Thanks. Your intake was submitted successfully.";
+if (params.get("submitted") === "true") {
+  showFormSuccess();
+}
+
+if (intakeForm) {
+  intakeForm.addEventListener("submit", async (event) => {
+    event.preventDefault();
+
+    if (formStatus) {
+      formStatus.textContent = "Submitting intake...";
+    }
+
+    const submitButton = intakeForm.querySelector('button[type="submit"]');
+    if (submitButton) {
+      submitButton.disabled = true;
+    }
+
+    try {
+      const formData = new FormData(intakeForm);
+      const payload = new URLSearchParams();
+
+      formData.forEach((value, key) => {
+        payload.append(key, String(value));
+      });
+
+      const response = await fetch("/", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/x-www-form-urlencoded"
+        },
+        body: payload.toString()
+      });
+
+      if (!response.ok) {
+        throw new Error("Submission failed");
+      }
+
+      intakeForm.reset();
+      showFormSuccess();
+      window.history.replaceState({}, "", `${window.location.pathname}#contact`);
+    } catch (error) {
+      if (formStatus) {
+        formStatus.textContent = "Submission failed. Please try again or email stewart@modelstewardship.com.";
+      }
+
+      if (submitButton) {
+        submitButton.disabled = false;
+      }
+    }
+  });
 }
 
 if (lightbox && lightboxImage && lightboxCaption && imageZoomTriggers.length > 0) {
